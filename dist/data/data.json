@@ -1,0 +1,77 @@
+{
+    "data":[
+       {
+          "image":"https://wedo.vn/wp-content/uploads/2019/11/thiet-ke-phong-tro-dep-6-370x260.jpg",
+          "date":"01/01/2021 00:00:00",
+          "title":"Phòng trọ Nguyễn Xí",
+          "address":"P26,Bình Thạnh, HCM",
+          "area":"30m2",
+          "price":"3 triệu"
+       },
+       {
+         "image":"https://news.mogi.vn/wp-content/uploads/2019/05/phong-tro-quan-8-anh-4.jpg",
+         "date":"01/01/2021 00:00:00",
+         "title":"Phòng trọ D2",
+         "address":"P25,Bình Thạnh, HCM",
+         "area":"30m2",
+         "price":"2.5 triệu"
+      },
+      {
+         "image":"https://hangngay.org/images/thue-nha-tro2.jpg",
+         "date":"01/01/2021 00:00:00",
+         "title":"Phòng trọ Lơ Trang Long",
+         "address":"P26,Bình Thạnh, HCM",
+         "area":"25m2",
+         "price":"3 triệu"
+      },
+      {
+         "image":"https://file4.batdongsan.com.vn/2019/03/31/20190331231724-c470_wm.jpg",
+         "date":"01/01/2021 00:00:00",
+         "title":"Phòng trọ Đặng Văn Bi",
+         "address":"Trường Thọ,Thủ Đức, HCM",
+         "area":"30m2",
+         "price":"3 triệu"
+      },
+      {
+         "image":"https://znews-photo.zadn.vn/w860/Uploaded/kbd_pijv/2020_03_03/878bd163bb3f4061192e.jpg",
+         "date":"01/01/2021 00:00:00",
+         "title":"Phòng trọ Hoàng Diệu 2",
+         "address":"Linh Chiểu,Thủ Đức, HCM",
+         "area":"30m2",
+         "price":"2 triệu"
+      },
+      {
+         "image":"https://sbshouse.vn/wp-content/uploads/2020/04/anh-trang-tri-phong-tro.jpg",
+         "date":"01/01/2021 00:00:00",
+         "title":"Phòng trọ Đường 17",
+         "address":"Linh Chiểu, Thủ Đức, HCM",
+         "area":"25m2",
+         "price":"2.5 triệu"
+      },
+
+      {
+         "image":"https://i.pinimg.com/474x/c4/53/4f/c4534fe90f6ebb19bc1a31dd781dd71c.jpg",
+         "date":"01/01/2021 00:00:00",
+         "title":"Phòng trọ Đường số 2",
+         "address":"Tăng Nhơn Phú A, Q9, HCM",
+         "area":"30m2",
+         "price":"3 triệu"
+      },
+      {
+         "image":"https://678.vn/images/raovat/p25218.jpg",
+         "date":"01/01/2021 00:00:00",
+         "title":"Phòng trọ D5",
+         "address":"P25, Bình Thạnh, HCM",
+         "area":"30m2",
+         "price":"3 triệu"
+      },
+      {
+         "image":"https://phongnhatro.com/upload/files/images/2016/05/original/20160516_064305_a6445d188f95e8001319021421df06c2.jpg",
+         "date":"01/01/2021 00:00:00",
+         "title":"Phòng trọ Bạch Đằng",
+         "address":"P26, Bình Thạnh, HCM",
+         "area":"30m2",
+         "price":"3 triệu"
+      }
+    ]
+ }

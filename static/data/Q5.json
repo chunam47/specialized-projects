@@ -1,0 +1,49 @@
+{
+    "data":[
+        {
+            "image":"https://static123.com/phongtro123/uploads/images/thumbs/900x600/fit/2020/08/27/-1_1598497561.jpg",
+            "date":"01/01/2021 00:00:00",
+            "title":"Phòng trọ học sinh, sinh viên và những người làm công tác học tập, nghiên cứu.",
+            "address": "38/8 Đường Phạm Đôn, Phường 10, Quận 5, Hồ Chí Minh         ",
+            "area":"10m²",
+            "price":"2.2 triệu"
+            
+         },
+         {
+            "image":"https://static123.com/phongtro123/uploads/images/thumbs/900x600/fit/2020/07/17/20200715-125620_1594958965.jpg",
+            "date":"01/01/2021 00:00:00",
+            "title":"CHO NỮ SINH VIÊN THUÊ PHÒNG TRỌ TRÊN LẦU.",
+            "address": "Đường Huỳnh Mẫn Đạt, Phường 3, Quận 5, Hồ Chí Minh",
+            "area":"20m²",
+            "price":"2.8 triệu"
+            
+         },
+         {
+            "image":"https://static123.com/phongtro123/uploads/images/thumbs/900x600/fit/2019/12/18/tbt-bep_1576638568.jpg",
+            "date":"01/01/2021 00:00:00",
+            "title":"Cho thuê phòng cao cấp Q.5 (đối diện KS 4* Equatorial), giáp Q1, Q3, Q10.",
+            "address": "327/49 Đường Trần Bình Trọng, Phường 4, Quận 5, Hồ Chí Minh",
+            "area":"20m²",
+            "price":"4.8 triệu"
+            
+         },
+         {
+            "image":"https://static123.com/phongtro123/uploads/images/thumbs/900x600/fit/2020/10/14/20161226-155844_1602638415.jpg",
+            "date":"01/01/2021 00:00:00",
+            "title":"Phòng mới sạch sẽ thoáng tại 25/1 Nguyễn Trãi, P.2, Q.5. Giá 3.5tr         .",
+            "address": "25/1 Nguyễn Trãi, Phường 2, Quận 5, Hồ Chí Minh         ",
+            "area":"15m²",
+            "price":"3.5 triệu"
+            
+         },
+         {
+            "image":"https://static123.com/phongtro123/uploads/images/thumbs/900x600/fit/2020/10/04/6b8576f15b3f49efab7299b2278c07bf_1601803364.jpg",
+            "date":"01/01/2021 00:00:00",
+            "title":"Q.5,Ngay Cầu Nguyễn Văn Cừ, đủ nội thất, cho thuê phòng riêng hoặc ở ghép: 1,5T/Th.",
+            "address": "25/1 Nguyễn Trãi, Phường 2, Quận 5, Hồ Chí Minh         ",
+            "area":"19m²",
+            "price":"1.5 triệu"
+            
+         }
+    ]
+ }

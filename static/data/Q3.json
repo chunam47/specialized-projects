@@ -1,0 +1,36 @@
+{
+    "data":[
+        {
+            "image":"https://static123.com/phongtro123/uploads/images/thumbs/900x600/fit/2020/11/02/001_1604296632.jpg",
+            "date":"01/01/2021 00:00:00",
+            "title":"PHÒNG ĐẦY ĐỦ TIỆN NGHI SÁT BÊN NOWZONE",
+            "address": "Hẻm 549 Nguyễn Đình Chiểu, Phường 2, Quận 3, Hồ Chí Minh",
+            "area":"14m²",
+            "price":"3.8 triệu"
+         },
+         {
+            "image":"https://static123.com/phongtro123/uploads/images/thumbs/900x600/fit/2020/12/14/20190924-163656_1607960097.jpg",
+            "date":"01/01/2021 00:00:00",
+            "title":"Chính chủ cho thuê phòng trọ 280/13 Cách Mạng Tháng 8,P10, Q3",
+            "address": "2 Đường Cách Mạng Tháng Tám, Quận 3, Hồ Chí Minh",
+            "area":"30m²",
+            "price":"5.8 triệu"
+         },
+         {
+            "image":"https://static123.com/phongtro123/uploads/images/thumbs/900x600/fit/2020/08/03/56d22f32151bee45b70a_1596455453.jpg",
+            "date":"01/01/2021 00:00:00",
+            "title":"Phòng Đẹp Full Nội Thất Diện Tích 25m2 Quận 3.",
+            "address": "Đường Phạm Ngọc Thạch, Phường 6, Quận 3, Hồ Chí Minh",
+            "area":"25m²",
+            "price":"5 triệu"
+         },
+         {
+            "image":"https://static123.com/phongtro123/uploads/images/thumbs/900x600/fit/2020/11/02/001_1604296632.jpg",
+            "date":"01/01/2021 00:00:00",
+            "title":"Cho thuê phòng trọ đường CMT8, đối diện công viên Lê Thị Riêng.",
+            "address": "Đường Cách Mạng Tháng Tám, Phường 11, Quận 3, Hồ Chí Minh",
+            "area":"26m²",
+            "price":"4 triệu"
+         }
+    ]
+ }
